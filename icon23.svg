@@ -16,6 +16,6 @@
         <text id="TC" stroke="#FFFFFF" stroke-width="2" fill="#FFFFFF" font-family="Menlo-Bold, Menlo" font-size="12000" font-weight="bold">
             <tspan x="7907.39062" y="23675">TC</tspan>
         </text>
-        <rect id="Rectangle" fill="#000000" x="14660" y="7011" width="12757" height="6281"></rect>
+        <polygon id="Rectangle" fill="#000000" points="14660 7011 27417 7011 27417 13292 14660 13292"></polygon>
     </g>
 </svg>
